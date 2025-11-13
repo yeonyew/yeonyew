@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+프론트엔드 개발을 하고있어요.
+
+- 유연 - Vue UI Component Lib
+  https://github.com/yuyeonUI/yuyeon
